@@ -1,4 +1,4 @@
-Oi eu sou o Matheus tenho 22 anos, faço análise e curso análise e desenvolvimento de sistemas e estou no 3º Semestre, tenho ambições e objetivos e me considero autodidata.
+Oi eu sou o Matheus tenho 22 anos, curso análise Análise e desenvolvimento de sistemas(USCS) e estou no 3º Semestre, tenho ambições e objetivos e me considero autodidata.
 
 ## Experiência Profissional
 - Trabalhei 5 anos no setor financeiro.
