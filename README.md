@@ -12,14 +12,17 @@ Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(
 - [x] SpringBoot
 - [x] Django
 - [x] Pandas
+- [X] React
 - [ ] NodeJS
-- [ ] React
+- [ ] NextJS
+
 
 ## Tecnologias:
 - Power BI
 - Excel
 - SQL server
 - mySQL
+- PostgreSQL
 
 ## Objetivos:
 Quero entrar no mercado de tecnologia cada vez mais, estou focando em desenvolvimento Back-end e Dados, sou mais familiarizado a trabalhar com Java, Spring boot e suas dependências.
