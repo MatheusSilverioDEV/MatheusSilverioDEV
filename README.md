@@ -1,4 +1,4 @@
-Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(USCS) e estou no 3º Semestre, tenho ambições e objetivos e me considero autodidata.
+Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(USCS) e estou no 3º Semestre, tenho ambições e objetivos e me considero autodidata, estou focado no desenvolvimento back-end com Java e Spring boot.
 
 ## Experiência Profissional
 - Trabalhei 5 anos no setor financeiro.
@@ -13,13 +13,12 @@ Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(
 - [x] Django
 - [x] Pandas
 - [X] React
-- [ ] NodeJS
+- [x] NodeJS
 - [ ] NextJS
 
 
 ## Tecnologias:
 - Power BI
-- Excel
 - SQL server
 - mySQL
 - PostgreSQL
