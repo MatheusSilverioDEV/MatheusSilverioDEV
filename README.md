@@ -14,6 +14,7 @@ Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(
 - [x] Pandas
 - [X] React
 - [x] NodeJS
+- [x] Typescript
 - [ ] NextJS
 
 
