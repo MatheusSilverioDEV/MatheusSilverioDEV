@@ -1,4 +1,4 @@
-Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(USCS) e estou no 3º Semestre, tenho ambições e objetivos e me considero autodidata, estou focado no desenvolvimento web com Java,Spring boot e React.
+Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(USCS) e estou no 3º Semestre, tenho ambições e objetivos e me considero autodidata, estou focado no desenvolvimento web com Java,Spring boot e React, também faço automações e trabalho com dados.
 
 ## Experiência Profissional
 - Trabalhei 5 anos no setor financeiro.
