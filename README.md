@@ -3,7 +3,8 @@ Oi eu sou o Matheus tenho 22 anos, curso Análise e desenvolvimento de sistemas(
 ## Experiência Profissional
 - Trabalhei 5 anos no setor financeiro.
 - Motion Designer
-- Atualmente sou estágiario no Setor de EAD da minha universade(Desenvolvimento e suporte da plataforma).
+- Trabalhei 1 ano como desenvolvedor
+- Atualmente sou Product Manager
 
 ## Certificados:
 - [x] Java
